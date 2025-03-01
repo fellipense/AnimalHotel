@@ -1,11 +1,7 @@
 # AnimalHotel
- An exclusive hotel for animals
+Um hotel exclusivo para animais.
 
- Sorry for the redundant directories,I made in a hurry.
-
- This simple program was made to help a friend with a college lesson about database (that's the reason the comments are in portuguese).
-
- There is the lesson description: 
+Um sistema básico para implementar as funcionalidades de um banco de dados SQL e Programação orientada a objetos com Java. Foi um trabalho de faculdade (não meu)
 
 "Crie um sistema com, no mínimo, 4 classes e demonstre por meio da implementação do sistema os conceitos: Abstração, Encapsulamento, Herança e Polimorfismo.
 
